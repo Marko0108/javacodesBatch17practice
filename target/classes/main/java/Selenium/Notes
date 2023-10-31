@@ -1,0 +1,25 @@
+Why do we need to test a software?
+
+Why do we need to automate?
+
+how/what tools do we use to automate a website?
+
+selenium
+
+What is selenium?
+Selenium is a tool that help us to automate webApplications.
+
+How do we integrate selenium into our project?
+1. Maven project
+
+Get() vs navigate();
+both serves the same purpose --> to navigate to a particular url
+
+get()--> u can't go back or forward in history
+navigate()--> u can go back and forward and also refresh
+
+get()--> it waits for the whole page to load
+navigate()--> it doesn't wait for the whole page to load
+
+close()--> t is going to close the current tab
+quit()--> it is going to quit the whole driver session

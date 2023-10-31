@@ -1,0 +1,23 @@
+Object oriented programming:
+Its just a way(Set of rules) of writing code.
+It basically helps us write large amounts of code. That is easier to change and manage.
+There are other ways like functional programming and procedural programming.
+
+Why we should ude OOP?
+1) it helps us write large amounts of code easily
+2) it also helps us represent the world around us inside computers easily
+3) changing code becomes easier.
+4) sharing code and collaboration becomes easier
+
+Main concepts/Main Pillars of OOP:
+1) classes and objects (base not considered main pillar)
+2) inheritance
+3) polymorphism
+4) abstraction
+5) encapsulation
+
+Classes and objects:
+A class is like a map/blueprint/idea/design that we create before we start building the actual object.
+Classes have properties/attributes which help us figure out how something looks like and they have behaviours/functions
+which helps us understand how something works
+
